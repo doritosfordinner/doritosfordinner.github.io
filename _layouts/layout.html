@@ -1,17 +1,13 @@
-<!DOCTYPE HTML>
-
+<!doctype html>
 <html>
   <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="author" content="Your Name" />
-    <title>{{ page.title }}</title>
+    <title>Doritos for Dinner{% if page.title%}: {{ page.title }}{% endif %}</title>
   </head>
   <body>
-    <header>
-      <h1><a href="/">{{ page.title }}</a></h1>
-    </header>
-    <section>
+    <article>
+    	
       {{ content }}
-    </section>
+      
+    </article>
   </body>
 </html>
