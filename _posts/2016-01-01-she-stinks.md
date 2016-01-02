@@ -3,4 +3,4 @@ layout: post
 title: She Stinks
 ---
 
-She farted so I escaped to a spare bedroom.  Happy new year.
+She farted. I sought refuge in a spare bedroom.  Happy new year.
