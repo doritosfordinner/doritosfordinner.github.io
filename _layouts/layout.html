@@ -2,12 +2,25 @@
 <html>
   <head>
     <title>Doritos for Dinner{% if page.title%}: {{ page.title }}{% endif %}</title>
+    <style type="text/css">
+    	body {
+    		max-width: 66ex;
+    		margin: 4em auto;
+    		font-family: 'Courier New', Courier, monospace;
+    		line-height: 1.4;
+    		color: #444;
+    		background-color: #fff;
+    	}
+    	
+    	h1 {
+    		font-size: 1rem;
+    		font-weight: normal;
+    		text-align: center;
+    		text-transform: uppercase;
+    	}
+    </style>
   </head>
   <body>
-    <article>
-    	
       {{ content }}
-      
-    </article>
   </body>
 </html>
