@@ -1,4 +1,4 @@
-auto: true
-markdown: rdiscount
 permalink: /:title.html
-rdiscount extensions: [smart]
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
