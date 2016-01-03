@@ -13,7 +13,9 @@ But could I be a teacher?
 
 Well, the public school system in the city where I grew up requires a master's degree for all high school teachers.  In other words, my bachelor's degree means that I would be unable to hold same position of the math teacher who knew of only one type of pie, the amateur mixologist or even the avant-garde grammaticist.
 
-Now, if I did want to be a teacher (and that is actually something I would consider upon retirement), I'd need to have the credentials.  Our conversation concluded that I would in fact need to be rewarded an honorary degree.  And to get one of those, you need to give a commencement speech.  I could do that -- that's easy.  I could talk to a crowd about some pseudo-aspriation bullshit for a few minutes.  We ignored the fact that an achievement worthy of the honor would be required.
+Now, if I did want to be a teacher (and that is actually something I would consider upon retirement), I'd need to have the credentials.
+
+Our conversation concluded that I would need to be rewarded an honorary degree because I wouldn't want to go back to school.  And to get one of those, you need to give a commencement speech.  I could do that -- that's easy.  I could talk to a crowd about some pseudo-aspriation bullshit for a few minutes.  We ignored the fact that an achievement worthy of the honor would be required.
 
 I challenged her to give me a topic -- any topic -- and I could come up with some bullshit on the spot.
 
