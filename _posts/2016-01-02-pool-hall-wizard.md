@@ -13,7 +13,7 @@ But could I be a teacher?
 
 Well, the public school system in the city where I grew up requires a master's degree for all high school teachers.  In other words, my bachelor's degree means that I would be unable to hold same position of the math teacher who knew of only one type of pie, the amateur mixologist or even the avant-garde grammaticist.
 
-Now, if I did want to be a teacher (and that is actually something I would consider upon retirement), I'd need to have the credentials.
+Now, if I did want to be a teacher (and that is actually something I would consider upon retirement), I'd need to have the credentials. 
 
 Our conversation concluded that I would need to be rewarded an honorary degree because I wouldn't want to go back to school.  And to get one of those, you need to give a commencement speech.  I could do that -- that's easy.  I could talk to a crowd about some pseudo-aspriation bullshit for a few minutes.  We ignored the fact that an achievement worthy of the honor would be required.
 
@@ -27,7 +27,7 @@ It went something like this...
 
 I started with "hello and welcome" because I've been binge watching the [Engineering Explained][0] YouTube channel.  Oh, and I know nothing about billiards and I was hoping my opener would give me time to think.
 
-> My first encounter with billiards was in the second grade.  Our, whom I expect needed a rest, wheeled in the TV cart to show us a video on how math can be fun!
+> My first encounter with billiards was in the second grade.  Our teacher, whom I expect needed a rest, wheeled in the TV cart to show us a video on how math can be fun!
 
 Get 'em right in their hearts.  Everyone loves teachers.  They work so hard for so little pay, or so goes the narrative.  Of course they're tired!
 
@@ -41,9 +41,9 @@ Is that a title someone can hold?  Is the a world champion billiardist? Billiard
 
 Doesn't matter.  Now's a good time to break for an applause.
 
-> If my second grade teacher hadn't shown us that video, I probably wouldn't have ever played billards. Who knows what'd I'd be doing.
+> If my second grade teacher hadn't shown us that video, I probably wouldn't have ever played billiards. Who knows what'd I'd be doing.
 
-> You're all going to become teachers. (Hold for applause.  Actually, step away from the podium and give a really cheese applause.)
+> You're all going to become teachers. (Hold for applause.  Actually, step away from the podium and give a really cheesy applause.)
 
 Sometime during this whole thing I turned my fake audience into a group of future teachers who have just graduated with a masters in education.
 
@@ -51,9 +51,9 @@ Sometime during this whole thing I turned my fake audience into a group of futur
 
 A textbook appeal to emotions.
 
-There are two points to this post.  The first is that there is a different between ability and credentials.  Credentials are an indication of potential ability but don't necessarily imply that it exists.
+There are two points to this post.  The first is that there is a difference between ability and credentials.  Credentials are an indication of potential ability but don't necessarily mean that the ability exists.
 
-The second is that given a position of authority, such as a keynote speaker, it's easy to appeal to emotions.  It's easy to persuade an audience.
+The second is that given a position of authority, such as a keynote speaker, it's easy to appeal to emotions and persuade an audience.
 
 That's why there are [imbeciles who support Bernie Sanders][1].
 
